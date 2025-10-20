@@ -13,3 +13,9 @@
 *{
   font-family: "Poppins", sans-serif;
 }
+a.active{
+  
+
+  @apply text-black;
+  @apply underline
+}
